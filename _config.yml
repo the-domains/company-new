@@ -1,0 +1,28 @@
+name: company new
+favicon: null
+layout_spectrum: 0.026395326014608145
+typography_spectrum: 0.12866494990885258
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.050087320851162076
+  lightness: 0.13576197414658964
+  saturation: 0.7097837796900421
+  rhythmicContrast: 0.8081689055543393
+purpose: []
